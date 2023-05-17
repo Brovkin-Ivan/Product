@@ -28,11 +28,4 @@ public class Product {
         return id;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
-    }
 }
